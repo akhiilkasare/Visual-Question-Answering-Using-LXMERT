@@ -1,0 +1,5 @@
+Transformers
+Flask
+pytorch == 1.6.0
+
+these need to be installed separately from the requirements.py file
